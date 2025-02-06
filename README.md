@@ -54,6 +54,7 @@ Binary Addition. (2008, August ). Retrieved from https://web.math.princeton.edu/
 
 Gupta, S. (2018, June 25). Retrieved from Half Adder and its construction: https://circuitdigest.com/tutorial/half-adder-circuit-and-its-construction
 
+justice, M. (n.d.). How computers really work. No starch press.
 
 
 
