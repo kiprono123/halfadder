@@ -50,7 +50,7 @@ This is when both switches are on or when the binary adition is 1 + 1
 
 References:
 
-Binary Adittion. (2008, August ). Retrieved from https://web.math.princeton.edu/math_alive/1/Lab1/BinAdd.html
+Binary Addition. (2008, August ). Retrieved from https://web.math.princeton.edu/math_alive/1/Lab1/BinAdd.html
 
 Gupta, S. (2018, June 25). Retrieved from Half Adder and its construction: https://circuitdigest.com/tutorial/half-adder-circuit-and-its-construction
 
